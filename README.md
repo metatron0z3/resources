@@ -23,3 +23,5 @@ See what I did there? That was a link ... without an `<a href="">` tag... How? .
 * _Trying italics with **underscores**_
 * *Same thing but with __asterisks__*
 * ~~Strike me through!~~
+
+![alt-text](https://avatars3.githubusercontent.com/u/7918069?v=3&s=460 "Morbid Games")
