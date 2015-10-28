@@ -17,9 +17,12 @@ Markdown is this tedious, inelegant way to tag *'html-like'* information very qu
 and it has become somewhat ubuquitous for developers. It seems like there should be a better way.
 Right now, there's just markdown. [Here is a good cheatsheet on markdown.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-See what I did there? That was a link ... without an <a href=""> tag... How? ... Markdown.
+See what I did there? That was a link ... without an `<a href="">` tag... How? ... Markdown.
 
 [Ramtin](http://github.com/morbidgames)'s edit:
   * _Trying italics with **underscores**_
   * *Same thing but with __asterisks__*
   * ~~Strike me through!~~
+
+![alt-text](https://avatars3.githubusercontent.com/u/7918069?v=3&s=460 "Morbid Games")
+
