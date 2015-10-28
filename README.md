@@ -20,6 +20,6 @@ Right now, there's just markdown. [Here is a good cheatsheet on markdown.](https
 See what I did there? That was a link ... without an <a href=""> tag... How? ... Markdown.
 
 [Ramtin](http://github.com/morbidgames)'s edit:
-..* _Trying italics with **underscores**_
-..* *Same thing but with __asterisks__*
-..* ~~Strike me through!~~
+* _Trying italics with **underscores**_
+* *Same thing but with __asterisks__*
+* ~~Strike me through!~~
