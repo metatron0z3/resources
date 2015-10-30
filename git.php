@@ -25,7 +25,10 @@
 				<li>Add/Commit</li>
 				<li>Branches</li>
 				<li>Checkout</li>
-
+				<li>Stash</li>
+				<li>Revert</li>
+				<li>Log</li>
+				<li>Reset</li>
 			</ul>
 		</div>
 
