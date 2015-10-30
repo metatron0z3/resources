@@ -20,8 +20,8 @@ Right now, there's just markdown. [Here is a good cheatsheet on markdown.](https
 See what I did there? That was a link ... without an `<a href="">` tag... How? ... Markdown.
 
 ##[Ramtin](http://github.com/morbidgames)'s edit:
-* _Trying italics with **underscores** Edit_
-* *Same thing but with __asterisks__ Edit*
-* ~~Strike me through! Edit~~
+  * _Trying italics with **underscores**_
+  * *Same thing but with __asterisks__*
+  * ~~Strike me through!~~
 
 ![alt-text](https://avatars3.githubusercontent.com/u/7918069?v=3&s=460 "Morbid Games")
