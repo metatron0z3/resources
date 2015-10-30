@@ -20,6 +20,13 @@
 					<li><a href="http://www.tutkiun.com/2011/05/what-your-gitconfig-file-contains.html">http://www.tutkiun.com/2011/05/what-your-gitconfig-file-contains.html</a></li>
 				  </ul>
 				  
+			<h1>Things to Lern About Git</h1>
+			<ul>
+				<li>Add/Commit</li>
+				<li>Branches</li>
+				<li>Checkout</li>
+
+			</ul>
 		</div>
 
 <?php require_once('view/footer.php'); ?>
